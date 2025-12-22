@@ -1,0 +1,18 @@
+================ PUBLIC HEALTH AI DECISION SUMMARY ================
+
+Total Zones Analyzed: 92
+High Risk Zones: 27
+Zones with Critical Facilities: 11
+
+TOP PRIORITY ZONES:
+1. Node 123 – High RISK
+   Reason: high population x long exposure x high vulnerability x high indicator
+
+2. Node 177 – High RISK
+   Reason: high population x long exposure x high vulnerability
+
+3. Node 185 – High RISK
+   Reason: high population x long exposure x high vulnerability x high indicator
+
+Recommended First Response Window: 4 hours
+==================================================================
